@@ -9,6 +9,6 @@ const returnLastTwoDrivers = function(driver){
 }
 
 const selectingDrivers = [
-  returnFirstTwoDrivers(), 
+  returnFirstTwoDrivers(),
   returnLastTwoDrivers()
 ]
