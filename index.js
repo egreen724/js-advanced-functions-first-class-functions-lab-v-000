@@ -12,3 +12,5 @@ const selectingDrivers = [
   returnFirstTwoDrivers(),
   returnLastTwoDrivers()
 ]
+
+selectingDrivers[0](); 
